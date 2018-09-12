@@ -10,7 +10,7 @@
 # AWS provider definition
 provider "aws" {
   region     = "${var.aws_region}"
-  version    = "${var.aws_provider_version"
+  version    = "${var.aws_provider_version}"
 }
 
 # //resource - aws_ecs_cluster
