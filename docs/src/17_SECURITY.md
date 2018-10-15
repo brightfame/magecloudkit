@@ -35,10 +35,6 @@ The App Servers should be rebuilt using the baking instructions described in the
 
 Please refer to the following URL: https://magento.com/security.
 
-### Wordpress Updates
-
-Please refer to the following URL: https://wordpress.org/news/category/security/.
-
 ## Cloudflare & DDoS Protection
 
 We use the [Cloudflare](https://www.cloudflare.com/) service for content acceleration and

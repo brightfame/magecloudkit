@@ -13,7 +13,7 @@ launch a new RDS instance based on the backup.
 
 ## Assets
 
-The Wordpress and Magento assets are automatically backed up from the Elastic Filesystem to
+The Magento assets are automatically backed up from the Elastic Filesystem to
 an S3 bucket for the given environment. Please refer to the following buckets:
 
  * MageCloudKit-production-assets

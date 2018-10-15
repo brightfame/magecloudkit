@@ -71,7 +71,7 @@ connect them to the load balancer then wait for them to become healthy before
 terminating the old ones. You can check the current deployment's Git SHA hash
 by accessing the `REVISION.txt` file:
 
-    $ curl https://www.MageCloudKitusa.com/REVISION.txt
+    $ curl https://www.<yourdomain>.com/REVISION.txt
 
 ***Note:*** If the new containers remove static assets you may notice visual issues
 during the deployment process.
